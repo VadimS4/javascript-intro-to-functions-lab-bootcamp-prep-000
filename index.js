@@ -39,7 +39,6 @@ function sayHiToGrandma(string)
   {
     return yesAnswer;
   }
-  }
 }
 
 
