@@ -26,6 +26,10 @@ function sayHiToGrandma(string)
   var yesAnswer = "I love you, too!";
   
   if (string.toLowerCase(string) === string)
+  {
+    return cantAnswer;
+  }
+  }
 }
 
 
