@@ -35,7 +35,7 @@ function sayHiToGrandma(string)
     return Answer;
   }
   
-  else if(string.)
+  else if("I love you Grandma")
   }
 }
 
