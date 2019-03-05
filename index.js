@@ -29,6 +29,13 @@ function sayHiToGrandma(string)
   {
     return cantAnswer;
   }
+  
+  else if(string.toUpperCase(string) === string) 
+  {
+    return Answer;
+  }
+  
+  else if
   }
 }
 
