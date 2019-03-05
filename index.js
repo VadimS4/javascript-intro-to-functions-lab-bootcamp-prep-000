@@ -24,6 +24,8 @@ function sayHiToGrandma(string)
   var cantAnswer = "I can't hear you!";
   var Answer = "YES INDEED!";
   var yesAnswer = "I love you, too!";
+  
+  if string()
 }
 
 
