@@ -10,6 +10,5 @@ function whisper(string)
 
 function logShout(string)
 {
-  return spy.toUpperCase()
-  console.log.restore()
+  
 }
